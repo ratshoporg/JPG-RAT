@@ -24,7 +24,7 @@ You can control andeoid mobile send image (jpg, png), Image Rat Support android 
 ### Tutorial Video
 VIDEO PROOF FOR WINDOWS | VIDEO PROOF FOR ANDROID
 -------|------
- [![VIDEO PROOF FOR WINDOWS](http://ratshop.org/wp-content/uploads/2024/02/Youtube_logo.png)](https://ratshop.org/video/jpg.mp4) | [![VIDEO PROOF FOR ANDROID](http://ratshop.org/wp-content/uploads/2024/02/Youtube_logo.png)](https://ratshop.org/video/apk2jpg.mp4)
+ [![VIDEO PROOF FOR WINDOWS](http://ratshop.org/wp-content/uploads/2024/02/Youtube_logo.png)](https://ratshop.org/video/jpg.mp4) | [![VIDEO PROOF FOR ANDROID](http://ratshop.org/wp-content/uploads/2024/02/Youtube_logo.png)](https://ratshop.org/video/img.mp4)
 
 
 
